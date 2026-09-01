@@ -28,6 +28,3 @@ Currently building hands-on projects as part of my Cloud Computing journey.
 
 - Python Full Stack Development – QSpiders
 
-### 📫 Connect With Me
-
-- LinkedIn: [Add your LinkedIn URL here]
